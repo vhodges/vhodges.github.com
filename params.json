@@ -1,0 +1,6 @@
+{
+  "name": "Vince Hodges",
+  "tagline": "Some random stuff about me",
+  "body": "### Welcome.\r\nI am a software developer living in Mission BC.  I've been writing code for over 35 years in a variety of languages and platforms.  For the past ten years, I've been building Rails apps (mostly for failed startups) and lately I've been working more and more with Go. \r\n\r\nI currently work at [Talemetry](http://talemetry.com/) where we do recruitment marketing software. I also maintain some open source side projects:\r\n\r\n### [Cashbook Toolkit](http://cashbooktoolkit.com) \r\nCashbook is a suite of tools for building personal finance apps for banks and credit unions.  It's a mix of Go and Rails.\r\n\r\n### [Dovetail](http://dovetail.io) \r\nDovetail is community management software geared towards coworking spaces.  It provides basic member management along with billing and meeting room scheduling.  It's a Rails app.\r\n\r\n### Contact/Links\r\n* Email: vhodges@gmail.com\r\n* Twitter: http://twitter.com/sourdoughlabs\r\n* Facebook: https://www.facebook.com/vhodges\r\n* Linkedin: https://www.linkedin.com/in/vincehodges\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
