@@ -795,9 +795,9 @@ section #title {
 section #title h1 {
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
-  font-size: 40px;
+  font-size: 36px;
   text-align: center;
-  line-height: 36px;
+  line-height: 32px;
 }
 section #title p {
   color: #d7cfbe;
@@ -816,8 +816,21 @@ section #title .credits {
 section #title .credits.left {
   float: left;
 }
+
+section #title .credits.center{
+  text-align:center;
+}
+
 section #title .credits.right {
   float: right;
+}
+
+section #title a {
+    margin-right:15px;
+}
+
+section #title a i.fa {
+    font-size:18px;
 }
 
 @media print, screen and (max-width: 720px) {
